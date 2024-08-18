@@ -4,9 +4,8 @@
 </div>
 
 ### Languages
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanhchoi)](https://github.com/ethanhchoi/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanhchoi)](https://github.com/ethanhchoi/github-readme-stats)
+
 ### Message Me
 <!--
 **ethanhchoi/ethanhchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
