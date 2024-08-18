@@ -5,7 +5,7 @@
 
 ### Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanhchoi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanhchoi&layout=pie)](https://github.com/ethanhchoi/github-readme-stats)
 
 ### Message Me
 <!--
