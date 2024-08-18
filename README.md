@@ -20,6 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<strong>a</strong>
-<script src="test"></script>
