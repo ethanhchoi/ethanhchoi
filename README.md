@@ -4,9 +4,9 @@
 </div>
 
 ### Languages
-<!--
-Display Python, Java, Javascript, HTML, CSS
--->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanhchoi)
+
 ### Message Me
 <!--
 **ethanhchoi/ethanhchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
