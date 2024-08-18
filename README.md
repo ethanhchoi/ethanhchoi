@@ -4,8 +4,10 @@
 </div>
 
 ### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanhchoi)](https://github.com/ethanhchoi/github-readme-stats)
-
+![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Rasberry-Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ### Message Me
 <!--
 **ethanhchoi/ethanhchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
