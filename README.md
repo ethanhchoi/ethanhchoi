@@ -1,6 +1,6 @@
 ### About Me
 <div>
-  I am Ethan Choi and I am currently a sophmore at the University of Maryland. I am a recent transfer coming from the University at Buffalo. Two animals and different slogans. Go Terps! Go Bulls! 
+  I am Ethan Choi and I am currently a sophmore at the University of Maryland. I am a recent transfer coming from the University at Buffalo.
 </div>
 
 ### Languages
