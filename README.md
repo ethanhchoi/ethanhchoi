@@ -1,6 +1,6 @@
 ### About Me
 <div>
-  I am Ethan Choi and I am currently a Junior at the University of Maryland.
+  I'm Ethan and I am currently a Junior at the University of Maryland.
 </div>
 
 
